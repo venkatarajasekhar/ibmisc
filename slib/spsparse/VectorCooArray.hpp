@@ -23,6 +23,8 @@
 
 namespace spsparse {
 
+
+
 template<class IndexT, class ValT, int RANK>
 class VectorCooArray
 {
